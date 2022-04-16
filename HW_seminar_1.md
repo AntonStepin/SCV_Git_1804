@@ -7,3 +7,15 @@
 git version
 ```
 после введения команды в терминале появится информация о версии установленного Git, если Git не установлен, то появится информация об ошибке.
+## 3. Установка Git
+Скачать Git можно с сайта https://git-scm.com/downloads
+для операционных систем:
+* Windows
+* MacOS
+* Linux/Unix
+
+После установки требуется представиться системе через терминал путем следующих комманд:
+```
+git config --global user.name "Your Name"
+git config --global user.email "Your@mail.com"
+```
