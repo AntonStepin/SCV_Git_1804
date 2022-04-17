@@ -113,3 +113,4 @@ git merge "наименование ветки, из которой вливае
 git add .gitignore
 git commit -m "сообщение"
 ```
+![111](111.jpg)
